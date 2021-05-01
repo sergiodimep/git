@@ -1,0 +1,8 @@
+digite git init 
+digite git config --global user.name "coloque aqui seu nome"
+digite git config --global user.name "digite seu email que você criou no github"
+digite touch nome_arquivo (esse comando cria uma pasta ou diretório com o nome nome_arquivo)
+digite git status
+digite add . (o ponto significa todos arquivos que você criou nesse apenas foi criado o nome_arquivo)
+digite git commit -m "aqui você coloca por exemplo: que você criou o arquivo nome_arquivo"
+continua no arquivo c.txt

@@ -1,0 +1,3 @@
+agora vá no github e copia o seu endereço do github clicando em https o github mostra
+digite git remote add o email que você copiou no github
+digite git push master o veja as orientações no github usando o paragrafo que a palavra push

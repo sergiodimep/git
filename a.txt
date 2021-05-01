@@ -1,0 +1,9 @@
+uso do git:
+instalar um editor no caso instalei o visual studio code
+instalar o git
+criar um repositório no github
+iniciar o git em uma pasta. 
+para isso crie uma pasta com o nome git_teste
+com o botão direito do mouse click em git bash
+continua no arquivo b.txt
+
